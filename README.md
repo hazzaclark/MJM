@@ -1,6 +1,10 @@
 # MJM
 Michael Jackson's Moonwalker Disassembly
 
+![image](https://github.com/user-attachments/assets/cf991d9d-eef6-4258-8dd8-34bd85331acc)
+
+``REV01 (NTSC-J)``
+
 ## Motive:
 
 The motive behind this repository is to provide the world's first diassembly of Micheal Jackson's Moonwalker (MD/Gen)
