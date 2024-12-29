@@ -21,8 +21,8 @@ the output should be a file called ``MJM_R00.bin`` or ``MJM_R01`` depending on w
 
 #### For REV00:
 
-``make CLFAGS="-REV00"``
+``make CLFLAGS="-DGAME_REV=0"``
 
 #### For REV01:
 
-``make CLFAGS="-REV01"``
+``make CLFLAGS="-DGAME_REV=1"``
